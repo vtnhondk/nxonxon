@@ -1,6 +1,12 @@
 {
   "name": "nxonxon",
   "version": "0.1.0",
+  "description": "Learn VueJS",
+  "author": {
+    "name": "Nhơn Võ",
+    "email": "nhonvt.dk@gmail.com",
+    "url": "https://nxonxon.me"
+  },
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
